@@ -1,0 +1,24 @@
+{
+  "name" : "Altea Eriksson",
+  "sizes" : [
+    {
+      "Skirt" : "M",
+      "shorts" : "M",
+      "socks" : "XL"
+    }
+  ],
+  "person" : [
+    {
+      "momname" : "Karina",
+      "momephone" : "0000-000000",
+      "momemail" : "0000000000",
+      "dadname" : "Micke",
+      "dadphone" : "0000-000000",
+      "dadmail" : "test@test.dk"
+    }
+  ],
+  "Lag" : "8-9 år",
+  "address" : "Ardennergatan 18D",
+  "city" : "Ystad",
+  "zip" : "27137"
+}

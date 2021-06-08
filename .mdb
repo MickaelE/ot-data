@@ -1,0 +1,9 @@
+{
+  "hash": "da54ea56",
+  "backend": {
+    "platform": "node12"
+  },
+  "meta": {
+    "type": "backend"
+  }
+}

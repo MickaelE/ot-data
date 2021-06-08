@@ -1,0 +1,5 @@
+
+{
+  "mongoURI":
+  "mongodb://registration:registration@130.61.190.141:27017/registration"
+}
